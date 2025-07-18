@@ -1,0 +1,10 @@
+{
+  "id": "lastserver",
+  "name": "LastServer",
+  "version": "1.0.0",
+  "description": "Intelligent last server reconnection system for Velocity networks",
+  "url": "https://github.com/ddanrob/LastServerKotlin",
+  "authors": ["ddanrob"],
+  "dependencies": [],
+  "main": "dev.velocity.lastserver.LastServerPlugin"
+}
