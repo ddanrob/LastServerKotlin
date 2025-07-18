@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issue Tracker](https://github.com/ddanrob/LastServerKotlin/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/ddanrob/LastServerKotlin/discussions)
-- **Security**: security@ddanrob.dev
+- **Security**: Report via GitHub Security Advisories
 
 ## Acknowledgments
 

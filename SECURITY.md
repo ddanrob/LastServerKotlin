@@ -18,7 +18,7 @@ We take the security of LastServer seriously. If you believe you have found a se
 - Disclose the vulnerability publicly before a fix is available
 
 ### Please DO:
-- Email your findings to security@ddanrob.dev
+- Report security vulnerabilities via GitHub Security Advisories
 - Include the following information:
   - Type of vulnerability
   - Full paths of source file(s) related to the vulnerability
@@ -84,10 +84,12 @@ The plugin uses Java's built-in serialization for data persistence. While conven
 - [ ] Keep Velocity and the plugin updated
 - [ ] Review and audit admin permissions regularly
 
-## Contact
+## Reporting
 
-For security concerns, please contact:
-- Email: security@ddanrob.dev
-- Response time: 24-48 hours
+For security concerns:
+- Use GitHub Security Advisories (private by default)
+- Open a confidential issue
 
-For general support, use the GitHub issue tracker.
+For general support:
+- Use the GitHub issue tracker
+- Check existing issues first
